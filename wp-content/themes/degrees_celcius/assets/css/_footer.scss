@@ -1,0 +1,25 @@
+footer {
+    background-color: $themeColor;
+    padding: 35px 0;
+
+    ul {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+
+        li {
+            a {
+                color: #FFF;
+                font-size: 22px;
+                font-weight: 500;
+                line-height: normal;
+                letter-spacing: 0.05;
+
+                &:hover {
+                    color: $secondaryColor;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,653 @@
+@media (max-width: 1660px) {
+    // check screen size 1400px if any code change write here
+
+}
+@media (max-width: 1399px) {
+    // check screen size 1200px if any code change write here
+    .menu {
+        gap: 25px;
+    }
+    .menu li a {
+        font-size: 18px;
+    }
+    .logo {
+        width: 80px;
+    }
+    a.user_profile {
+        width: 40px;
+    }
+    .mainBanner .mainBanner-cont {
+        gap: 12px;
+        padding: 0 5%;
+    }
+    .mainBanner .mainBanner-cont h1 {
+        font-size: 42px;
+    }
+    .mainBanner .mainBanner-cont p {
+        font-size: 18px;
+        padding: 8px 0;
+    }
+    .themeBtn {
+        padding: 15px 40px;
+        font-size: 15px;
+    }
+    header {
+        padding: 4px 0;
+    }
+    .discoverSection .discoverSec-hd .cont {
+        padding-right: 0px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-nav ul {
+        gap: 15px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-nav ul li a {
+        font-size: 14px;
+        padding: 15px 15px 0px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight {
+        gap: 20px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-searchBar input {
+        width: 320px;
+        height: 40px;
+        padding: 5px 15px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-searchBar button {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+    .discoverSection .discoverSec-main .discoverSec-card .cont {
+        padding: 15px;
+        text-align: center;
+    }
+    .characterSection .swiper {
+        padding: 60px 0px 20px 90px;
+        margin-right: -2vw;
+        margin-top: -20px;
+    }
+    .characterSection .characterSec-cont {
+        padding-right: 0px;
+    }
+    .testimonialSection .testimonialSec-hd, .gallerySection .gallerySec-hd {
+        gap: 5px;
+        padding: 0 5% 45px;
+    }
+    .testimonialSection .testimonialSec-card .img {
+        width: 120px;
+        height: 120px;
+    }
+    .testimonialSection .testimonialSec-card {
+        width: 100%;
+        border-radius: 5px;
+        padding: 30px 25px;
+        align-items: flex-start;
+        gap: 20px;
+    }
+    .testimonialSection .testimonialSec-card .cont {
+        gap: 12px;
+    }
+    .testimonialSection .testimonialSec-card .cont h6 {
+        font-size: 14px;
+    }
+    .testimonialSection .testimonialSec-card .cont h6 em {
+        font-size: 12px;
+    }
+    .testimonialSection .testimonialSwiper {
+        width: 160%;
+        margin-left: -30%;
+        padding-bottom: 80px;
+    }
+    .gallerySection .gallerySec-main {
+        padding: 0;
+    }
+    .comicSection1 .comicSec-chapters ul li a .cont h6 {
+        font-size: 20px;
+    }
+    .comicSection1 .comicSec-cont {
+        gap: 12px;
+    }
+    .comicSection1 .comicSec-chapters, .comicSection1 .comicSec-tags {
+        gap: 20px;
+    }
+    .comicSection1 .comicSec-chapters ul {
+        gap: 10px;
+    }
+    .comicSection1 .comicSec-tags ul li a {
+        border-radius: 2px;
+        font-size: 12px;
+        line-height: 1;
+        letter-spacing: 0;
+        padding: 7px 10px;
+    }
+    .comicSection1 .comicSec-tags ul {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px 5px;
+    }
+    .comicSection1 .comicSec-chapters ul li a {
+        padding: 10px;
+        gap: 15px;
+    }
+    .characterSection .swiper.characterSwiper1 .characterSec-card, .characterSection .swiper.characterSwiper1 .swiper-slide-active .characterSec-card {
+        padding: 30px;
+    }
+    .characterSection .gap-4 {
+        gap: 5px !important;
+    }
+    .characterSection .w-75 {
+        width: 100% !important;
+    }
+    footer ul li a {
+        font-size: 18px;
+        letter-spacing: 0.05em;
+    }
+    footer ul {
+        gap: 30px;
+    }
+    footer {
+        padding: 25px 0;
+    }
+    .wikiSection1 .wikiSec1-cont {
+        gap: 12px;
+        padding: 30px 0px 0 0;
+    }
+    .wikiSection1 .wikiSec1-bottomCont {
+        gap: 12px;
+    }
+    .wikiSection1 .wikiSec1-right table tr th, .wikiSection1 .wikiSec1-right table tr td {
+        font-size: 22px;
+        padding: 10px;
+    }
+    .wikiSection1 {
+        padding-bottom: 60px;
+    }
+    .aboutSection .aboutSec-cont {
+        gap: 18px;
+    }
+    .aboutSection .aboutSec-cont ol {
+        gap: 15px;
+    }
+    .aboutSection .aboutSec-cont ol li, .aboutSection .aboutSec-cont ul li {
+        font-size: 18px;
+    }
+
+
+
+
+
+
+
+    .fs-xs {
+        font-size: 18px;
+    }
+    .fs-sm {
+        font-size: 24px;
+    }
+    .fs-md {
+        font-size: 28px;
+    }
+    .fs-lg1 {
+        font-size: 32px;
+    }
+    .fs-lg {
+        font-size: 34px;
+    }
+    .fs-p1 {
+        font-size: 15px;
+    }
+    .fs-p2 {
+        font-size: 16px;
+        line-height: 1.4;
+    }
+    .fs-p4 {
+        font-size: 18px;
+        line-height: 1.5;
+    }
+    .discoverSection .discoverSec-hd {
+        padding-bottom: 45px;
+    }
+    .featureSection .featureSec-cont, .discoverSection .discoverSec-hd .cont, .characterSection .characterSec-cont {
+        gap: 15px;
+    }
+    .mainBanner, .featureSection, .characterSection, .discoverSection, .testimonialSection, .gallerySection, .aboutSection {
+        padding: 60px 0;
+    }
+   
+}
+@media (max-width: 1199px) {
+    // check screen size 992px if any code change write here
+    .characterSection .characterSec-card .cont {
+        padding: 10px 0 0 0;
+        gap: 10px;
+    }
+    .characterSection .characterSec-card .cont a {
+        width: 25px;
+        height: 25px;
+        font-size: 14px;
+        flex-shrink: 0;
+    }
+    .characterSection .characterSec-card .cont .fs-sm span {
+        font-size: 0.6em;
+    }
+    .characterSection .swiper {
+        padding: 50px 0px 20px 76px;
+        margin-right: -5vw;
+        margin-top: -20px;
+    }
+}
+@media (max-width: 991px) {
+    // check screen size 768px if any code change write here
+    .mainBanner .mainBanner-cont h2 {
+        font-size: 14px;
+    }
+    .mainBanner .mainBanner-cont {
+        gap: 8px;
+        padding: 0 0%;
+    }
+    .mainBanner .mainBanner-cont h1 {
+        font-size: 32px;
+    }
+    .mainBanner .mainBanner-cont p {
+        font-size: 14px;
+        padding: 4px 0;
+    }
+    .themeBtn {
+        padding: 12px 30px;
+        font-size: 14px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-nav ul li a {
+        font-size: 12px;
+        padding: 10px 10px 0px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-searchBar input {
+        font-size: 14px;
+    }
+    .discoverSection .discoverSec-main .discoverSec-card .cont {
+        padding: 10px;
+        text-align: center;
+
+        .fs-sm {
+            font-size: 16px;
+        }
+    }
+    .characterSection .swiper {
+        padding: 50px 0px 30px 80px;
+        margin-right: -25vw;
+        margin-top: -20px;
+    }
+    .testimonialSection::after {
+        width: 70px;
+        height: 40px;
+        top: -10px;
+        right: -35px;
+    }
+    .testimonialSection .testimonialSwiper {
+        width: 200%;
+        margin-left: -50%;
+        padding-bottom: 70px;
+    }
+    .menu li a {
+        font-size: 16px;
+    }
+    .logo {
+        width: 60px;
+    }
+    a.user_profile {
+        width: 30px;
+    }
+    .comicSection1 .comicSec-chapters ul li a .img {
+        width: 50px;
+        height: 50px;
+    }
+    .comicSection1 .comicSec-chapters, .comicSection1 .comicSec-tags {
+        gap: 10px;
+    }
+    .comicSection1 .comicSec-chapters ul li a .cont h6 {
+        font-size: 15px;
+    }
+    .comicSection1 .comicSec-chapters ul li a .cont span {
+        font-size: 12px;
+    }
+    .wikiSection1 .wikiSec1-right table tr th, .wikiSection1 .wikiSec1-right table tr td {
+        font-size: 16px;
+        padding: 15px 5px;
+    }
+    .aboutSection .aboutSec-cont ol li, .aboutSection .aboutSec-cont ul li {
+        font-size: 16px;
+    }
+    footer ul li a {
+        font-size: 16px;
+    }
+    footer ul {
+        gap: 20px;
+    }
+
+
+
+
+    .fs-xs {
+        font-size: 16px;
+    }
+    .fs-sm {
+        font-size: 20px;
+    }
+    .fs-md {
+        font-size: 22px;
+    }
+    .fs-lg1 {
+        font-size: 26px;
+    }
+    .fs-lg {
+        font-size: 28px;
+    }
+    .fs-p1 {
+        font-size: 14px;
+    }
+    .fs-p2 {
+        font-size: 15px;
+        line-height: 1.4;
+    }
+    .fs-p4 {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+    .discoverSection .discoverSec-hd {
+        padding-bottom: 30px;
+    }
+    .featureSection .featureSec-cont, .discoverSection .discoverSec-hd .cont, .characterSection .characterSec-cont {
+        gap: 10px;
+    }
+    .mainBanner, .featureSection, .characterSection, .discoverSection, .testimonialSection, .gallerySection, .aboutSection, .comicSection1 {
+        padding: 40px 0;
+    }
+    
+   
+}
+@media (max-width: 767px) {
+    // check screen size Mobile and less than 767px if any code change write here
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+    .menu-Bar {
+        display: block;
+        top: 0px;
+    }
+    .menuWrap.open {
+        display: flex;
+        left: 0px;
+    }
+    .menuWrap {
+        position: fixed;
+        left: -210%;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        margin: 0;
+        background: #101010c4;
+        backdrop-filter: blur(50px);
+        height: 100vh;
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        padding: 70px 20px 20px;
+        flex-flow: column;
+        transition: all 0.4s ease;
+        z-index: 10;
+        width: 250px;
+    }
+    .container {
+        position: relative;
+    }
+    br {
+        display: none;
+    }
+    * {
+        letter-spacing: 0 !important;
+    }
+
+    // HEADER
+    .menu {
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 20px;
+        flex-direction: column;
+    }
+    .menu li a {
+        font-size: 20px;
+    }
+    .logo {
+        width: 60px;
+        z-index: 12;
+        position: relative;
+    }
+    html, body {
+        overflow-x: hidden;
+    }
+    .ovr-hiddn {
+        overflow: hidden;
+    }
+    header {
+        position: fixed;
+        top: 0;
+        z-index: 9;
+        width: 100%;
+    }
+    body {
+        padding-top: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // 
+    a.user_profile {
+        display: none;
+    }
+    .mainBanner, .featureSection, .characterSection, .discoverSection, .testimonialSection, .gallerySection, .aboutSection, .comicSection1 {
+        padding: 30px 0;
+    }
+    .mainBanner .mainBanner-cont h1 {
+        font-size: 26px;
+    }
+    .mainBanner .mainBanner-cont h2 {
+        font-size: 12px;
+    }
+    .mainBanner .mainBanner-cont p {
+        line-height: 1.4;
+    }
+    .featureSection .featureSec-img {
+        gap: 10px;
+        justify-content: flex-start;
+    }
+    .featureSection .featureSec-cont, .discoverSection .discoverSec-hd .cont, .characterSection .characterSec-cont {
+        gap: 5px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-nav ul li a::after {
+        height: 2px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-nav ul {
+        gap: 7px;
+    }
+    .discoverSection .discoverSec-hd .discoverSec-hdRight .discoverSec-nav ul li a {
+        font-size: 11px;
+        padding: 5px 5px 0px;
+    }
+    .characterSection .swiper {
+        padding: 45px 0px 30px 70px;
+        margin-right: -50vw;
+        margin-top: -10px;
+    }
+    .characterSection .characterSec-card .cont a {
+        width: 18px;
+        height: 18px;
+        font-size: 9px;
+    }
+    .testimonialSection .testimonialSec-card {
+        width: 100%;
+        border-radius: 4px;
+        padding: 15px;
+        align-items: flex-start;
+        gap: 15px;
+        flex-direction: column;
+        text-align: center;
+    }
+    .testimonialSection .testimonialSec-card .img {
+        width: 100px;
+        height: 100px;
+        margin: auto;
+        border-radius: 5px;
+        overflow: hidden;
+    }
+    .testimonialSection .testimonialSec-card .cont {
+        gap: 10px;
+    }
+    .discoverSection::after{
+        clip-path: none;
+    }
+    .testimonialSection::after {
+        display: none;
+    }
+    .testimonialSection .testimonialSec-hd, .gallerySection .gallerySec-hd {
+        gap: 5px;
+        padding: 0 0% 25px;
+    }
+    .testimonialSection .testimonialSwiper .swiper-button-next, .testimonialSection .testimonialSwiper .swiper-button-prev {
+        width: 30px;
+        height: 30px;
+        border-radius: 5px;
+        padding: 5px 0px;
+    }
+    .testimonialSection .testimonialSwiper .swiper-button-prev {
+        left: -40px;
+    }
+    .testimonialSection .testimonialSwiper .swiper-button-next {
+        right: -40px;
+    }
+    .testimonialSection .testimonialSwiper .swiper-button-next::after, .testimonialSection .testimonialSwiper .swiper-button-prev::after {
+        font-size: 14px;
+    }
+    .testimonialSection .testimonialSwiper {
+        width: 240%;
+        margin-left: -70%;
+        padding-bottom: 50px;
+    }
+    .gallerySection .gallerySec-bottom {
+        padding-top: 25px;
+    }
+    footer ul li a {
+        font-size: 11px;
+    }
+    footer ul {
+        gap: 10px;
+    }
+    footer {
+        padding: 15px 0;
+    }
+    .comicSection1 .chapter-viewArea {
+        padding-top: 30px;
+    }
+    .characterSection .px-5 {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .characterSection .swiper.characterSwiper1 .characterSec-card, .characterSection .swiper.characterSwiper1 .swiper-slide-active .characterSec-card {
+        padding: 0;
+    }
+    .characterSection .swiper.characterSwiper1 {
+        padding-left: 0;
+        margin-top: -20px;
+        margin-right: 0;
+        padding: 40px 0 20px 0;
+    }
+    .wikiSection1 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        .pe-0 {
+            padding-right: var(--bs-gutter-x,.75rem) !important;
+        }
+
+        .container-leftPadding {
+            .row {
+                flex-direction: column-reverse;
+            }
+        }
+    }
+    .wikiSection1 .wikiSec1-cont {
+        gap: 7px;
+        padding: 0px 0px 0 0;
+    }
+    .aboutSection .aboutSec-cont ol li, .aboutSection .aboutSec-cont ul li {
+        font-size: 15px;
+    }
+    .aboutSection .aboutSec-cont {
+        gap: 15px;
+    }
+    .aboutSection .aboutSec-cont ul {
+        padding-left: 18px;
+        gap: 6px;
+    }
+    .aboutSection .aboutSec-cont ol {
+        gap: 10px;
+    }
+
+
+
+
+
+
+
+
+    
+
+    .featureSection, .discoverSection, .characterSection, .comicSection1 , .wikiSection1 {
+        .row {
+            row-gap: 24px;
+        }
+    }
+    .discoverSection .discoverSec-main .discoverSec-card {
+        max-width: 280px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+    .fs-xs {
+        font-size: 14px;
+    }
+    .fs-sm {
+        font-size: 16px;
+    }
+    .fs-md {
+        font-size: 18px;
+    }
+    .fs-lg1 {
+        font-size: 20px;
+    }
+    .fs-lg {
+        font-size: 22px;
+    }
+    .fs-p1 {
+        font-size: 13px;
+    }
+    .fs-p2 {
+        font-size: 14px;
+        line-height: 1.4;
+    }
+    .fs-p4 {
+        font-size: 15px;
+        line-height: 1.5;
+    }
+
+}
