@@ -1,0 +1,400 @@
+[2024-11-16 21:55:48] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:55:48] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:55:48] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:55:48] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:55:50] [LOG] Creating backup 
+[2024-11-16 21:55:50] [LOG] Found 421 files to backup.
+[2024-11-16 21:55:51] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:55:51] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:55:51] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:55:51] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:02] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:02] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:02] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:02] [LOG] New backup created and its name is: BM_2024-11-16_21_55_49_hArRX8qFuviV3Lpx.zip
+[2024-11-16 21:56:02] [LOG] Process (backup) finished successfully via ajax.php
+[2024-11-16 21:56:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:02] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:02] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:02] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:06] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:06] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:06] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:06] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:08] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:08] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:08] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:08] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:09] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:09] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:09] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:09] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:13] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:13] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:13] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:13] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:25] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:25] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:25] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:38] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:38] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:38] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:56:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:56:49] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:56:49] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:56:49] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:57:01] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:57:01] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:57:01] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:57:01] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:57:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:57:14] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:57:14] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:57:14] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:57:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:57:25] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:57:25] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:57:25] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:57:37] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:57:37] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:57:37] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:57:37] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:57:50] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:57:50] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:57:50] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:57:50] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:58:01] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:58:01] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:58:01] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:58:01] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:58:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:58:14] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:58:14] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:58:14] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:58:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:58:25] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:58:25] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:58:25] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:58:37] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:58:37] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:58:37] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:58:37] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:58:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:58:49] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:58:49] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:58:49] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:59:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:59:02] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:59:02] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:59:02] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:59:13] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:59:13] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:59:13] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:59:13] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:59:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:59:26] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:59:26] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:59:26] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:59:37] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:59:37] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:59:37] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:59:37] [ERROR] Error handler: init#01|8192
+[2024-11-16 21:59:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 21:59:49] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 21:59:49] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 21:59:49] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:00:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:00:02] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:00:02] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:00:02] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:00:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:00:14] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:00:14] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:00:14] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:00:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:00:26] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:00:26] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:00:26] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:00:37] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:00:37] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:00:37] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:00:37] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:00:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:00:49] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:00:49] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:00:49] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:01:02] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:01:02] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:01:02] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:01:02] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:01:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:01:14] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:01:14] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:01:14] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:01:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:01:25] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:01:25] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:01:25] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:01:37] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:01:37] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:01:37] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:01:37] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:01:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:01:49] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:01:49] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:01:49] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:02:01] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:02:01] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:02:01] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:02:01] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:02:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:02:14] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:02:14] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:02:14] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:02:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:02:25] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:02:25] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:02:25] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:02:38] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:02:38] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:02:38] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:02:38] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:02:49] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:02:49] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:02:49] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:02:49] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:03:01] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:03:01] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:03:01] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:03:01] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:03:14] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:03:14] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:03:14] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:03:14] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:03:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:03:25] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:03:25] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:03:25] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:03:37] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:03:37] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:03:37] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:03:37] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:03:50] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:03:50] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:03:50] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:03:50] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:04:03] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:04:03] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:04:03] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:04:03] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:04:15] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:04:15] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:04:15] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:04:15] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:04:26] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:04:26] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:04:26] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:04:26] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:04:40] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:04:40] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:04:40] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:04:40] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:04:51] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:04:51] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:04:51] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:04:51] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:05:04] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:05:04] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:05:04] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:05:04] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:05:17] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:05:17] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:05:17] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:05:17] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:05:29] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:05:29] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:05:29] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:05:29] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:05:42] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:05:42] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:05:42] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:05:42] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:05:53] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:05:53] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:05:53] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:05:53] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:06:05] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:06:05] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:06:05] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:06:05] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:06:18] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:06:18] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:06:18] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:06:18] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:06:29] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:06:29] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:06:29] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:06:29] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:06:43] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:06:43] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:06:43] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:06:43] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:06:55] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:06:55] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:06:55] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:06:55] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:07:06] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:07:06] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:07:06] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:07:06] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:07:19] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:07:19] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:07:19] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:07:19] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:07:30] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:07:30] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:07:30] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:07:30] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:07:43] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:07:43] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:07:43] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:07:43] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:07:56] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:07:56] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:07:56] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:07:56] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:08:07] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:08:07] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:08:07] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:08:07] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:08:20] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:08:20] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:08:20] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:08:20] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:08:32] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:08:32] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:08:32] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:08:32] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:08:45] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:08:45] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:08:45] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:08:45] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:08:58] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:08:58] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:08:58] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:08:58] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:09:10] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:09:10] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:09:10] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:09:10] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:09:22] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:09:22] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:09:22] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:09:22] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:09:34] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:09:34] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:09:34] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:09:34] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:09:46] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:09:46] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:09:46] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:09:46] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:09:58] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:09:58] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:09:58] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:09:58] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:10:10] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:10:10] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:10:10] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:10:10] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:10:21] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:10:21] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:10:21] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:10:22] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:10:34] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:10:34] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:10:34] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:10:34] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:10:46] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:10:46] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:10:46] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:10:46] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:10:58] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:10:58] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:10:58] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:10:58] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:11:10] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:11:10] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:11:10] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:11:10] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:11:21] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:11:21] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:11:21] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:11:21] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:11:34] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:11:34] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:11:34] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:11:34] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:11:46] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:11:46] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:11:46] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:11:46] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:11:59] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:11:59] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:11:59] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:11:59] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:12:11] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:12:11] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:12:11] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:12:11] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:12:22] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:12:22] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:12:22] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:12:22] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:12:35] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:12:35] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:12:35] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:12:35] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:12:47] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:12:47] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:12:47] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:12:47] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:13:00] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:13:00] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:13:00] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:13:00] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:13:12] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:13:12] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:13:12] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:13:12] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:13:24] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:13:24] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:13:24] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:13:24] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:13:36] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:13:36] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:13:36] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:13:36] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:13:48] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:13:48] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:13:48] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:13:48] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:14:00] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:14:01] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:14:01] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:14:01] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:14:13] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:14:13] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:14:13] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:14:13] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:14:25] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:14:25] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:14:25] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:14:25] [ERROR] Error handler: init#01|8192
+[2024-11-16 22:14:36] [ERROR] There was an error before request shutdown (but it was not logged to backup/restore log)
+[2024-11-16 22:14:36] [ERROR] Error message: Required parameter $post_id follows optional parameter $i
+[2024-11-16 22:14:36] [ERROR] Error file/line: C:\xampp\htdocs\degrees_celcius_wp\wp-content\plugins\acf-repeater\includes\5-7\acf-repeater-field.php|805
+[2024-11-16 22:14:36] [ERROR] Error handler: init#01|8192
